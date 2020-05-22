@@ -1,1 +1,4 @@
 /blobcopy.sqlite3
+/log/
+/download/
+/blobcopy.sqlite3-journal
